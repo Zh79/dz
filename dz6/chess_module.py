@@ -12,4 +12,3 @@ def main():
                 err = True
                 break
         if not err: print (q)
-
