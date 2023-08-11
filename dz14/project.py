@@ -1,7 +1,7 @@
 import json
 
-from dz13.exc import *
-from dz13.user import User
+from exc import *
+from user import User
 
 
 class Project:
